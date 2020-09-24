@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "search/v1/item",
+      "launchUrl": "search/v1/kia",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "WebAdvert.SearchApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "search/v1/item",
+      "launchUrl": "search/v1/kia",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
